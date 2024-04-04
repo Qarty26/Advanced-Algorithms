@@ -1,0 +1,3 @@
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab2/tema_genetici/cmake-build-debug/CMakeFiles/tema_genetici.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab2/tema_genetici/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab2/tema_genetici/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Part 2/orientare/cmake-build-debug/CMakeFiles/orientare.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Part 2/orientare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Part 2/orientare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

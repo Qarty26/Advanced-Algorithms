@@ -1,0 +1,3 @@
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 6/monotonie/cmake-build-debug/CMakeFiles/monotonie.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 6/monotonie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 6/monotonie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 7/muchii_ilegale/cmake-build-debug/CMakeFiles/muchii_ilegale.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 7/muchii_ilegale/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 7/muchii_ilegale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

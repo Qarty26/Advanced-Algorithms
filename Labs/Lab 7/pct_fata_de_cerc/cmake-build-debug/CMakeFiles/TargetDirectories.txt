@@ -1,0 +1,3 @@
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 6/pct_fata_de_cerc/cmake-build-debug/CMakeFiles/pct_fata_de_cerc.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 6/pct_fata_de_cerc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rzvan/OneDrive/Desktop/Unibuc/An2/Sem 2/AA/Labs/Lab 6/pct_fata_de_cerc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
